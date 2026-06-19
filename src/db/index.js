@@ -1,1 +1,1 @@
-export { getTodos, createTodo, updateTodo, deleteTodo } from './supabase.js'
+// Supabase client reference — see ./supabase.js
